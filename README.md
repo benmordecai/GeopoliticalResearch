@@ -24,23 +24,23 @@ By analyzing the **hidden motivators** behind these actions—rather than relyin
 
 Please navigate through the detailed thematic research papers below:
 
-### 1. [Realpolitik vs. America First](file:///Users/ben/Documents/antigravity/bold-euclid/realpolitik_vs_america_first.md)
+### 1. [Realpolitik vs. America First](/realpolitik_vs_america_first.md)
 *   **Core Themes:** Structural realism vs. transactional nationalism, the mechanics of U.S. Dollar reserve currency status, the hollowing out of the industrial core, and the cultural and ideological dimensions of globalism versus working-class preservation.
 
-### 2. [Great Power Rivalries](file:///Users/ben/Documents/antigravity/bold-euclid/great_power_rivalries.md)
+### 2. [Great Power Rivalries](/great_power_rivalries.md)
 *   **Core Themes:** The U.S.-China-Russia strategic triangle, the Taiwan Strait and Ukraine wars, tech decoupling, energy geopolitics, and domestic vulnerabilities (inflation, critical drug shortages, infrastructure cyber threats).
 
-### 3. [Middle East and Israel](file:///Users/ben/Documents/antigravity/bold-euclid/middle_east_and_israel.md)
+### 3. [Middle East and Israel](/middle_east_and_israel.md)
 *   **Core Themes:** Israel as a U.S. strategic anchor, the economics of Foreign Military Financing (arms sales loop), containing Iran's proxy network, oil market transmission channels, the fiscal cost of regional policing, and domestic institutional polarization.
 
-### 4. [Economic and Security Choke Points](file:///Users/ben/Documents/antigravity/bold-euclid/economic_and_security_chokepoints.md)
+### 4. [Economic and Security Choke Points](/economic_and_security_chokepoints.md)
 *   **Core Themes:** The semiconductor war (TSMC, ASML lithography export controls, CHIPS Act corporate subsidies) and maritime bottlenecks (Malacca, Hormuz, Bab-el-Mandeb, Panama Canal) and how their disruptions trigger automotive factory layoffs and consumer inflation.
 
-### 5. [Latin America, Cuba, and Illicit Flows](file:///Users/ben/Documents/antigravity/bold-euclid/latin_america_cuba_and_illicit_flows.md)
+### 5. [Latin America, Cuba, and Illicit Flows](latin_america_cuba_and_illicit_flows.md)
 *   **Core Themes:** Chinese/Russian intelligence bases in Cuba, resource competition in South America (the Lithium Triangle, Venezuela), the transnational fentanyl supply chain, and the direct impacts on the middle class (the opioid crisis, municipal tax spikes, wage compression, and domestic crime).
 
-### 6. [The MAGA Dollar & Neo-Mercantilism](file:///Users/ben/Documents/antigravity/bold-euclid/maga_dollar_and_neomercantilism.md)
+### 6. [The MAGA Dollar & Neo-Mercantilism](/maga_dollar_and_neomercantilism.md)
 *   **Core Themes:** The Triffin Dilemma and the petrodollar-reshoring paradox, neo-mercantilist policy strategies (tariffs, currency devaluation), scenarios of petrodollar maintenance vs. collapse, and the strategic roles of gold bullion, stablecoins, and a Strategic Bitcoin Reserve.
 
-### 7. [Fentanyl Geopolitics & Supply Chains](file:///Users/ben/Documents/antigravity/bold-euclid/fentanyl_geopolitics_and_supply_chains.md)
+### 7. [Fentanyl Geopolitics & Supply Chains](/fentanyl_geopolitics_and_supply_chains.md)
 *   **Core Themes:** Transnational precursor chemistry, cartel forensic identification, Chinese state export subsidies and leverage, Mexican state capture, Venezuela's *Cartel de los Soles* and Operation Absolute Resolve, Cuba's smuggling axis, U.S. WMD designations, border entry points, and domestic digital distribution networks.
